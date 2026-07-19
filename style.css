@@ -18,7 +18,6 @@ body.dark{
     color:#fff;
 }
 
-/* Navbar */
 
 .navbar{
     position:fixed;
@@ -100,7 +99,6 @@ body.dark{
     align-items:center;
 }
 
-/* Hero */
 
 .hero{
     height:100vh;
@@ -157,7 +155,7 @@ body.dark{
      transition: 1s;
 }
 
-/* Sections */
+
 
 section{
     padding:80px 8%;
@@ -169,7 +167,6 @@ h2{
     color:#2e7d32;
 }
 
-/* About */
 
 .about-container{
     display:grid;
@@ -199,7 +196,6 @@ body.dark .about-container div{
     margin-bottom:15px;
 }
 
-/* Menu */
 
 .cards{
     display:grid;
@@ -263,7 +259,6 @@ body.dark .card{
         font-weight: bold;
 }
 
-/* Cart */
 
 .cart-section{
     background:#f3f3f3;
@@ -315,7 +310,6 @@ body.dark #cartItems{
     }
 
 
-/* Contact */
 
 .contact-box{
     display:grid;
@@ -331,7 +325,6 @@ body.dark #cartItems{
     border-radius:15px;
 }
 
-/* Footer */
 
 footer{
     background:#2e7d32;
@@ -339,8 +332,6 @@ footer{
     text-align:center;
     padding:20px;
 }
-
-/* Mobile */
 
 #menuBtn{
     display:none;
@@ -442,7 +433,6 @@ body.dark .payment-box{
     font-weight:bold;
 }
 
-/* Payment Buttons */
 
 .payment-options{
     display:flex;
@@ -636,24 +626,6 @@ body.dark .success-box{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .cart-section{
     position: relative;
     overflow: hidden;
@@ -685,29 +657,6 @@ body.dark .success-box{
     z-index: 2;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Login Modal */
 
 .login-modal{
     position:fixed;
