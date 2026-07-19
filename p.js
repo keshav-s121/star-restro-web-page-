@@ -261,8 +261,6 @@ successOk.onclick = () => {
 
 };
 
-
-
 window.onclick = function(e){
 
     if(e.target===paymentModal){
@@ -316,28 +314,7 @@ navbar.style.background="rgba(0,0,0,0.6)";
 });
 
 
-
-
 updateCart();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 const loginBtn = document.getElementById("loginBtn");
 const loginModal = document.getElementById("loginModal");
